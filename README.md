@@ -7,7 +7,7 @@ Welcome to the **Nexus Tweaker Source Code** repository! This README provides an
 ## 📜 Story
 
 ### Background
-The owner of this project, **thorstellini** (Discord user ID: `1230775914099376240`), created a server called **Nexus Tweaks**, where he sells a PC tweaker utility. In addition to the paid version, there is a **free "beta" version** with limited features, offering only basic Windows tweaks that aren’t particularly useful.
+The owner of this project, **thorstellinii** (Discord user ID: `1287876571947991110`), created a server called **[Nexus Tweaks](https://discord.gg/9AzWUzVtcj)**, where he sells a PC tweaker utility. In addition to the paid version, there is a **free "beta" version** with limited features, offering only basic Windows tweaks that aren’t particularly useful.
 
 ### Discovery
 A friend (or possibly an alternate account) promoted Nexus Tweaks on **Amar's Discord server** (`discord.gg/amar`). After joining to investigate, the project initially seemed legitimate. However, after discovering a free trial version and analyzing the content, suspicions grew about the tool's authenticity.
