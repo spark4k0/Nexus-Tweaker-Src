@@ -1,6 +1,27 @@
+---
+
 # Nexus Tweaker Source Code Repository
 
-Welcome to the **Nexus Tweaker Source Code** repository! This README provides an overview of the story behind Nexus Tweaker, details about the code and its contents, and opinions on both the owner and PC tweakers in general. This guide is structured to be clear and informative, so you know exactly where to find everything. 🛠️
+Welcome to the **Nexus Tweaker Source Code** repository! This README provides a detailed look into the backstory of Nexus Tweaker, insights into the code, and thoughts on the utility and PC tweakers in general. Navigate easily using the table of contents below. 🛠️
+
+---
+
+## 📑 Table of Contents
+
+- [📜 Story](#-story)
+  - [Background](#background)
+  - [Discovery](#discovery)
+  - [Analysis](#analysis)
+- [📂 Repository Structure](#-repository-structure)
+  - [Code Structure](#code-structure)
+  - [Important Note](#important-note)
+- [⚠️ Disclaimer & Warnings](#️-disclaimer--warnings)
+- [🔍 Final Opinions](#-final-opinions)
+  - [On Nexus](#on-nexus)
+  - [On PC Tweakers](#on-pc-tweakers)
+- [💡 Alternatives](#-alternatives)
+- [📄 License](#-license)
+- [📬 Contact](#-contact)
 
 ---
 
@@ -23,8 +44,9 @@ The **decompiled and extracted source code** from this tool is provided in this 
 
 ### Code Structure
 The repository contains the decompiled and extracted code of Nexus Tweaker, split into separate folders:
-- **Decompiled Code**: Contains all available decompiled files.
 - **Extracted Files**: Holds any non-decompiled .pyc files that you can explore further if desired.
+- **Decompiled Code**: Contains all available decompiled files.
+- **Original Software (ZIP Archive)**: This archive contains the original, unaltered (trail/ free) version of the Nexus Tweaker software for reference and analysis (Free Trail License Key: `FREE-XXXX-XXXX-XXXX`)
 
 ### Important Note
 There is a significant amount of redundant and poorly optimized code, with many repeating functions. **Support for this code will not be provided.** You are welcome to analyze, modify, or use it as you see fit. Be aware of any **potentially harmful commands**, especially PowerShell scripts, which might corrupt your system if misused.
@@ -47,8 +69,20 @@ The owner of Nexus Tweaks appears to lack technical depth, evidenced by his use 
 In general, **PC tweakers are not recommended**. These tools often overpromise and underdeliver, and the performance improvements they claim can typically be achieved more effectively by:
 - Using a custom Windows OS (e.g., **Ghost Spectre**)
 - Making BIOS adjustments (with caution)
-  
+
 Always ensure that you understand the changes you're making, especially when altering system configurations.
+
+---
+
+## 💡 Alternatives
+
+If you’re still interested in using a system optimizer, consider these **free and open-source alternatives**, which are generally more reliable than Nexus Tweaker:
+
+1. **[Optimizer](https://github.com/hellzerg/optimizer)** - A well-rounded tool for improving Windows performance, offering features for both beginners and advanced users.
+2. **[TerabyteTweaker](https://github.com/Teramanbr/TerabyteTweaker)** - Another free optimizer that provides various tweaks without any intrusive or harmful bloat.
+3. For even more options, explore the **[Windows Tweaks topic](https://github.com/topics/windows-tweaks)** on GitHub, which includes a broad range of community-driven tools designed for different needs and preferences.
+
+> **Note**: Optimizers are generally **not recommended**. Many advertised benefits are either minimal or achievable through more reliable methods, such as adjusting BIOS settings or using optimized Windows OS versions. Use caution and fully understand any tool you decide to use.
 
 ---
 
@@ -60,7 +94,7 @@ This repository is public domain. You are free to use, modify, and redistribute 
 
 ## 📬 Contact
 
-Feel free to reach out on Discord (spark4k) if you have any questions (although no support will be provided for this codebase). 
+Feel free to reach out on Discord (spark4k) if you have any questions (although no support will be provided for this codebase).
 
 ---
 
