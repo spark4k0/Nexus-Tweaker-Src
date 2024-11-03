@@ -79,10 +79,10 @@ Always ensure that you understand the changes you're making, especially when alt
 If you’re still interested in using a system optimizer, consider these **free and open-source alternatives**, which are generally more reliable than Nexus Tweaker:
 
 1. **[Optimizer](https://github.com/hellzerg/optimizer)** - A well-rounded tool for improving Windows performance, offering features for both beginners and advanced users.
-2. **[TerabyteTweaker](https://github.com/Teramanbr/TerabyteTweaker)** - Another free optimizer that provides various tweaks without any intrusive or harmful bloat.
+2. **[TerabyteTweaker](https://github.com/Teramanbr/TerabyteTweaker)** - Another free optimizer that provides various tweaks.
 3. For even more options, explore the **[Windows Tweaks topic](https://github.com/topics/windows-tweaks)** on GitHub, which includes a broad range of community-driven tools designed for different needs and preferences.
 
-> **Note**: Optimizers are generally **not recommended**. Many advertised benefits are either minimal or achievable through more reliable methods, such as adjusting BIOS settings or using optimized Windows OS versions. Use caution and fully understand any tool you decide to use.
+> **Note**: Optimizers are generally **not recommended**. Many advertised benefits are either minimal or achievable through more reliable methods, such as adjusting BIOS settings or using optimized Windows OS versions. Use caution and fully understand any tool you decide to use. Be aware of potential malware and/ or bloatware.
 
 ---
 
